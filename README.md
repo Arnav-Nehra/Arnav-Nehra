@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Web3, WebDev**
 
-- 💬 Ask me about **Web3(Blockchain),Full stack development**
-
 - 📫 How to reach me **arnavnehra1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
